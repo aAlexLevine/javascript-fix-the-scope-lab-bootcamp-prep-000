@@ -30,5 +30,5 @@ var funkyFunction = function() {
 
 var theFunk = funkyFunction()
 
-function theFunk()
+function funkyFunction()
 //How would we tell that function to execute to return the string within it?
